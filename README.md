@@ -6,3 +6,5 @@ CICDS2017 is a database developed by the Canadian Research Institute for Cyber S
 It also includes the results of network traffic analysis using CICFlowMeter with tagged streams based, source and destination IP addresses, source and destination ports, protocols and attacks, this database is presented as a csv file
 # architecture: 
 below the solution architecture that describes the detection process.
+
+![image](https://github.com/FadhelBoussen/deep-learning/assets/144439317/55540e81-f119-4535-82d5-38d0b6678244)
