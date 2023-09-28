@@ -4,6 +4,6 @@ Once the data is sent to apache kafka it can be retrieved with kafka consumer in
 
 
 
-
+\n
 
 ![image](https://github.com/FadhelBoussen/deep-learning/assets/144439317/4d2b8949-9f24-4b09-9a26-257e060041a6)
