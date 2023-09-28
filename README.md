@@ -5,6 +5,6 @@ Once the data is sent to apache kafka it can be retrieved with kafka consumer in
 CICDS2017 is a database developed by the Canadian Research Institute for Cyber Security, consisting of benign traffic and the most common attacks based on the 2016 McAfee report (DOS, DDOS, Web-based, Brute force..). including different operating systems (Windows, Ubuntu, MACOS X) and network devices (modems, switches, firewalls, routers).
 It also includes the results of network traffic analysis using CICFlowMeter with tagged streams based, source and destination IP addresses, source and destination ports, protocols and attacks, this database is presented as a csv file
 # architecture: 
-below the solution architecture that describes the detection process.
+below the solution architecture that describes the detection process:
 
 ![image](https://github.com/FadhelBoussen/deep-learning/assets/144439317/55540e81-f119-4535-82d5-38d0b6678244)
