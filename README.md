@@ -1,2 +1,3 @@
 # deep-learning
-This Python script showcases a deep learning model trained using the CICIDS 2017 dataset.
+Our solution is to design a real-time attack detection system, The first step is to analyze the network using cicflowmeter which will generate a csv file containing the analysis results that will later serve as attributes for the deep learning model, then we will retrieve and send this data as a flowfile to apache kafka using apache nifi with the adequate processors.
+Once the data is sent to apache kafka it can be retrieved with kafka consumer in jupyter notebook using topic name and IP address and finally real-time detection using the deep learning algorithm ANN.
