@@ -3,4 +3,7 @@ Our solution is to design a real-time attack detection system, The first step is
 Once the data is sent to apache kafka it can be retrieved with kafka consumer in jupyter notebook using topic name and IP address and finally real-time detection using the deep learning algorithm ANN.
 
 
+
+
+
 ![image](https://github.com/FadhelBoussen/deep-learning/assets/144439317/4d2b8949-9f24-4b09-9a26-257e060041a6)
