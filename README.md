@@ -9,5 +9,3 @@ CICFlowmeter-V4.0 (formerly known as ISCXFlowMeter) is a network traffic flow ge
 cicflowmeter was developed by "Arash Habibi Lashkari" researcher and developer in cic (Canadian Institute for Cybersecurity).
 # architecture: 
 below the solution architecture that describes the detection process:
-
-![image](https://github.com/FadhelBoussen/deep-learning/assets/144439317/55540e81-f119-4535-82d5-38d0b6678244)
