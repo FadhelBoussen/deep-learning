@@ -11,10 +11,11 @@ cicflowmeter was developed by "Arash Habibi Lashkari" researcher and developer i
 below the solution architecture that describes the detection process:
 
    ╔═══════════════╗       ╔══════╗       ╔══════╗
-   ║ Ciclowmeter ║ ----► ║ NiFi ║ ----► ║ Kafka ║
+   ║   Ciclowmeter ║ ----► ║   NiFi║ ----► ║Kafka║
    ╚═══════════════╝       ╚══════╝       ╚══════╝
                                           │
                                           ▼
+                                          
                         ╔═════════════════════════╗
                         ║ Deep Learning Model   ║
                         ╚═════════════════════════╝
