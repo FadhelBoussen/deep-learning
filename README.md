@@ -9,13 +9,13 @@ CICFlowmeter-V4.0 (formerly known as ISCXFlowMeter) is a network traffic flow ge
 cicflowmeter was developed by "Arash Habibi Lashkari" researcher and developer in cic (Canadian Institute for Cybersecurity).
 # architecture: 
 below the solution architecture that describes the detection process:
-
-   ╔═══════════════╗       ╔══════╗       ╔══════╗
-   ║   Ciclowmeter ║ ----► ║   NiFi║ ----► ║Kafka║
-   ╚═══════════════╝       ╚══════╝       ╚══════╝
-                                          │
-                                          ▼
+      
+         ╔═══════════════╗       ╔══════╗       ╔══════╗
+         ║ Ciclowmeter ║ ----►   ║ NiFi║ ----►0 ║Kafka║
+         ╚═══════════════╝       ╚══════╝       ╚══════╝
+                                                │
+                                                ▼
                                           
-                        ╔═════════════════════════╗
-                        ║ Deep Learning Model   ║
-                        ╚═════════════════════════╝
+                              ╔═════════════════════════╗
+                              ║ Deep Learning Model   ║
+                              ╚═════════════════════════╝
